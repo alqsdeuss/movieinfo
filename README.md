@@ -1,1 +1,1 @@
-# a movie info website made by me and a friend, is not the best
+# a movie info website made by me and a friend, is not the best `(create your own apikey on https://www.omdbapi.com/ because you have 1000 requests a day and I don't know if they will arrive for each)`
